@@ -1,4 +1,3 @@
-package ArrayList;
 import java.util.ArrayList;
 
 public class Programma_ArrayList {
@@ -19,5 +18,6 @@ public class Programma_ArrayList {
 		System.out.println("ultimo :" +v.get(v.size()-1));
 
 	}
+	//CIAO SIMONCOOK99, QUESTA è UNA MODIFICA TRAMITE COMMIT DI TARTARUGA SVN
 
 }
